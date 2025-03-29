@@ -473,7 +473,7 @@
   - type: Speech
     speechVerb: Moth
     speechSounds: Squeak
-    allowedEmotes: ['Chitter', 'Squeak']
+    allowedEmotes: ['Chitter', 'Squeak', 'FLap']
   - type: FaxableObject
     insertingState: inserting_mothroach
   - type: MothAccent
