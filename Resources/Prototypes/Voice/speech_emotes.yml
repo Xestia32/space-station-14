@@ -188,7 +188,7 @@
   name: chat-emote-name-flap
   category: Vocal
   available: false
-  icon: Interface/Emotes/chitter.png
+  icon: Interface/Emotes/flap.png
   whitelist:
     components:
     - Vocal
