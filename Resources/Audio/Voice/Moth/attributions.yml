@@ -7,3 +7,8 @@
   license: "CC-BY-SA-3.0"
   copyright: "Taken from https://github.com/BeeStation/BeeStation-Hornet/commit/11ba3fa04105c93dd96a63ad4afaef4b20c02d0d"
   source: "https://github.com/BeeStation/BeeStation-Hornet/blob/11ba3fa04105c93dd96a63ad4afaef4b20c02d0d/sound/emotes/"
+
+- files: ["moth_flutter.ogg"]
+  license: "CC-BY-SA-3.0"
+  copyright: "Taken from https://github.com/BeeStation/BeeStation-Hornet/commit/9052e10a83a5fd3a1b157d8b1ad7dacf0e88de14"
+  source: "https://github.com/BeeStation/BeeStation-Hornet/blob/9052e10a83a5fd3a1b157d8b1ad7dacf0e88de14/sound/emotes/"
